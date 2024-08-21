@@ -89,11 +89,14 @@ Optimal Allocation: Details the best asset allocation to achieve the highest Sha
 This project successfully demonstrates how historical stock data can be used to optimize a stock market portfolio. By leveraging the power of data analysis and visualization, we've identified key insights into stock performance and risk. The analysis of moving averages, daily returns, and portfolio simulations provides a comprehensive view of investment opportunities. The optimal portfolio allocation identified through the simulation process offers a balanced approach to achieving high returns while managing risk. This project lays the groundwork for further exploration into advanced optimization techniques and real-time data integration, providing a robust foundation for informed investment decisions.
 
 ## 🚀 Future Work
-#### Expand Stocks: Analyze additional stocks or asset classes.
+#### Expand Stocks: 
+Analyze additional stocks or asset classes.
 
-#### Advanced Techniques: Implement Monte Carlo simulations or Machine Learning models.
+#### Advanced Techniques: 
+Implement Monte Carlo simulations or Machine Learning models.
 
-#### Real-time Integration: Incorporate real-time data for dynamic adjustments.
+#### Real-time Integration: 
+Incorporate real-time data for dynamic adjustments.
 
 ## 📜 License
 This project is licensed under the MIT License. 
